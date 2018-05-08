@@ -18,6 +18,7 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 
+    //https://www.tutorialspoint.com/android/android_json_parser.htm
     private String TAG = MainActivity.class.getSimpleName();
     private ListView lv;
 

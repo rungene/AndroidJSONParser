@@ -18,6 +18,8 @@ import java.net.URL;
 
 public class HttpHandler {
 
+    //https://www.tutorialspoint.com/android/android_json_parser.htm
+
     private static final String TAG = HttpHandler.class.getSimpleName();
 
     public HttpHandler() {
